@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="pics_n_palette" data-name="pics n palette" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2851.96 2851.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="1418.15" cy="1432.81" fx="1418.15" fy="1432.81" r="1396.44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ea3bf7"/>
+      <stop offset="1" stop-color="#404dfd" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle class="cls-1" cx="1418.15" cy="1432.81" r="1396.44"/>
+  <image width="1920" height="1920" transform="translate(465.98 527.92)" xlink:href="D:\asm2_portfolio website\ele5b.png"/>
+</svg>

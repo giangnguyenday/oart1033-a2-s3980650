@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="pics_n_palette" data-name="pics n palette" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 267.91 267.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cbfd00;
+      }
+
+      .cls-2 {
+        fill: #131a33;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="131.25" cy="133.95" r="126.54"/>
+  <circle class="cls-2" cx="131.25" cy="133.95" r="11.66"/>
+  <circle class="cls-2" cx="96.91" cy="133.95" r="11.66"/>
+  <circle class="cls-2" cx="165.59" cy="133.95" r="11.66"/>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="pics_n_palette" data-name="pics n palette" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2851.96 2851.96">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-3 {
+        fill: none;
+        mask: url(#mask);
+      }
+    </style>
+    <mask id="mask" x="2711.28" y="1287.35" width="2101" height="2172" maskUnits="userSpaceOnUse"/>
+    <radialGradient id="radial-gradient" cx="3641.38" cy="-.97" fx="3641.38" fy="-.97" r="1" gradientTransform="translate(4110.37 -2804816.88) rotate(90) scale(771 -710)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cbfd00"/>
+      <stop offset="1" stop-color="#fddaf6"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="1418.15" cy="1432.81" fx="1418.15" fy="1432.81" r="1381.47" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#06e0ac"/>
+      <stop offset="1" stop-color="#cbfd00" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g class="cls-3">
+    <ellipse class="cls-1" cx="3421.28" cy="2688.35" rx="710" ry="771"/>
+  </g>
+  <circle class="cls-2" cx="1418.15" cy="1432.81" r="1381.47"/>
+  <image width="1920" height="1920" transform="translate(1395.65 15.16) rotate(43.72)" xlink:href="D:\asm2_portfolio website\ele8b.png"/>
+</svg>

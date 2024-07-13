@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="pics_n_palette" data-name="pics n palette" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1918.93 6696.71">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cbfd00;
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-3 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient-3);
+      }
+
+      .cls-5 {
+        fill: none;
+        mask: url(#mask);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="304.93" y1="-2178.93" x2="304.93" y2="-8875.64" gradientTransform="translate(654 -2178.93) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".28" stop-color="#ea3bf7"/>
+      <stop offset=".92" stop-color="#131a33" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="mask" x="-190.07" y="-451.32" width="2101" height="7156.87" maskUnits="userSpaceOnUse">
+      <g id="mask0_0_1" data-name="mask0 0 1">
+        <rect class="cls-1" x="-9.07" y="-.45" width="1920" height="6706"/>
+      </g>
+    </mask>
+    <radialGradient id="radial-gradient" cx="-2736.48" cy="-407.77" fx="-2736.48" fy="-407.77" r="1" gradientTransform="translate(231425.6 1542374.82) rotate(90) scale(563.59 -564.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#404dfd"/>
+      <stop offset="1" stop-color="#ea3bf7"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="-2737.33" cy="-408.53" fx="-2737.33" fy="-408.53" gradientTransform="translate(290576.45 2115534.75) rotate(90) scale(772.5 -710)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-3" cx="-2736.09" cy="-407.21" fx="-2736.09" fy="-407.21" r="1" gradientTransform="translate(200880.87 1371698.65) rotate(90) scale(500.97 -490)" xlink:href="#radial-gradient"/>
+  </defs>
+  <rect class="cls-6" x="-1.07" y="0" width="1920" height="6696.71"/>
+  <g class="cls-5">
+    <g>
+      <ellipse class="cls-2" cx="1237.43" cy="112.27" rx="564.5" ry="563.59"/>
+      <ellipse class="cls-3" cx="519.93" cy="952.4" rx="710" ry="772.5"/>
+      <ellipse class="cls-4" cx="1346.93" cy="996.49" rx="490" ry="500.97"/>
+    </g>
+  </g>
+</svg>
